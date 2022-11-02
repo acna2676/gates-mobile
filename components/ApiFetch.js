@@ -28,7 +28,7 @@ const ApiFetch = () => {
 
     fetch(
       "https://p6sgr8twf5.execute-api.ap-northeast-1.amazonaws.com/api/v1/news/" +
-        today,
+        "2022-11-01",
       {
         headers: {
           "x-api-key": API_KEY,

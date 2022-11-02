@@ -11,5 +11,6 @@ npm start
 
 ## Tips
 
+- [環境変数の使用](https://purpleeeee.com/posts/j-pb28bz-52)
 - TypeError: Network request failed
   - [localhost を https 化する](https://web.dev/i18n/ja/how-to-use-local-https/)
